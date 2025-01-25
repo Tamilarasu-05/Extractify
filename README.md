@@ -6,7 +6,7 @@ operations:
 * Detect words
 * Read words
 
-![example](./doc/example.png)
+
 
 ## Installation
 
