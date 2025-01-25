@@ -10,11 +10,9 @@ Sample Image
 
 ![Example Image](https://github.com/Tamilarasu-05/Extractify/blob/main/sample_2.png)
 
-Text Extracted Image
-
-![Example Image](https://github.com/Tamilarasu-05/Extractify/blob/main/sample_1.png))
 
 
+![Text Extracted Image](https://github.com/Tamilarasu-05/Extractify/blob/main/ty.webp)
 ## Installation
 
 * Download the zipped [model weights](https://www.dropbox.com/s/j1hl6bppecug0sz/models.zip?dl=0)
