@@ -6,9 +6,9 @@ operations:
 * Detect words
 * Read words
 
-![Example Image](https://raw.githubusercontent.com/username/repository/branch/images/example.jpg)
+![Example Image](https://github.com/Tamilarasu-05/Extractify/blob/main/sample_1.png)
 
-![Example Image](https://raw.githubusercontent.com/username/repository/branch/images/example.jpg)
+![Example Image](https://github.com/Tamilarasu-05/Extractify/blob/main/sample_2.png)
 
 
 ## Installation
