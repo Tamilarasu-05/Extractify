@@ -6,6 +6,9 @@ operations:
 * Detect words
 * Read words
 
+![Example Image](https://raw.githubusercontent.com/username/repository/branch/images/example.jpg)
+
+![Example Image](https://raw.githubusercontent.com/username/repository/branch/images/example.jpg)
 
 
 ## Installation
