@@ -6,9 +6,13 @@ operations:
 * Detect words
 * Read words
 
-![Example Image](https://github.com/Tamilarasu-05/Extractify/blob/main/sample_1.png)
+Sample Image
 
 ![Example Image](https://github.com/Tamilarasu-05/Extractify/blob/main/sample_2.png)
+
+Text Extracted Image
+
+![Example Image](https://github.com/Tamilarasu-05/Extractify/blob/main/sample_1.png))
 
 
 ## Installation
